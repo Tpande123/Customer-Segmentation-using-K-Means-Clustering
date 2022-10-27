@@ -10,7 +10,7 @@ The different steps involved are  ->
 
 3.) Deciding the number of clusters using WCSS (Within CLusters Sum of Squares) method and the elbow graph.
 
-4.) Training the K-Means Clustering model in order to divide the custmers into the different clusters.
+4.) Training the K-Means Clustering model in order to divide the customers into the different clusters.
 
 5.) Visualizing the Clusters created by K-Means Clustering model.
 
