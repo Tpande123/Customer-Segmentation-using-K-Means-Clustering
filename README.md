@@ -1,6 +1,6 @@
 # Introduction: -
 
-Creating a clustering model to divide customers visiting a Mall into different clusters using K-Means Cluastering algorithm and deciding the optimum number of clusters to divide the customers into by making use of WCSS (Within Clusters Sum of Squares) method and the elbow graph.
+Creating a clustering model to divide customers visiting a Mall into different clusters using K-Means Clustering algorithm and deciding the optimum number of clusters to divide the customers into by making use of WCSS (Within Clusters Sum of Squares) method and the elbow graph.
 This is an Unsupervised Machine Learning Problem.
 The different steps involved are  -> 
 
